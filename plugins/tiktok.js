@@ -24,9 +24,9 @@ module.exports = {
                 return await socket.sendMessage(sender, { text: '❌ *Video details not found. Check the link.*' });
             }
 
-            const wm = "_𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐄𝐔𝐒 𝐈𝐍𝐂 </>_ 🇱🇰";
+            const wm = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴛʜᴜᴡᴀ ";
 
-            let caption = `*🎥 ZEUS X MINI TIK TOK DOWNLOADER 🎥*\n\n`;
+            let caption = `*🎥 CHATHUWA X MINI TIK TOK DOWNLOADER 🎥*\n\n`;
             caption += `*╭───────────────┈⊷*\n`;
             caption += `*┊• 🏷️ ᴛɪᴛʟᴇ :-* ${video.title || 'No Title'}\n`;
             caption += `*┊• 👤 ᴀᴜᴛʜᴏʀ :-* ${video.author?.nickname || 'Unknown'}\n`;
