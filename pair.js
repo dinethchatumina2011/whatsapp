@@ -25,7 +25,7 @@ const { executePlugin } = require('./plugins');
 //=======================================
 // CONFIGURATION
 //=======================================
-const ORIGINAL_OWNER = '94756600911';
+const ORIGINAL_OWNER = '94741336839';
 let currentBotNumber = null;
 
 const extraOwnersMap = new Map();
