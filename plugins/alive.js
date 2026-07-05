@@ -6,7 +6,7 @@ module.exports = {
         const specialUsers = global.specialUsers || [];
         if (!isMe && !specialUsers.includes(senderNumber)) {
             return await sendMessageWithRetry(socket, sender, {
-                text: '*❌❌මේ බොට් ඔයාට වැඩ කරන්නේ නෑ.❌❌*\n*WEBSITE LINK "tmp"*\n*‼️⭕කරුණාකර ඉහත වෙබ් සයිට් එක වෙත පිවිස ඔබගේ නම්බර් එකට බොට් කෙනෙකු සාදා ගන්න.‼️⭕*\n\n\n*❌❌This bot will not work for you.❌❌*\n*WEBSITE LINK "tmp"*\n*‼️⭕Please visit the above website and create a bot for your number.‼️⭕*\n\n\n*❌❌இந்த பாட் உங்களுக்கு வேலை செய்யாது.❌❌*\n*இணையதள இணைப்பு "tmp"*\n*‼️⭕தயவுசெய்து மேலே உள்ள இணையதளத்திற்குச் சென்று உங்கள் எண்ணுக்கு ஒரு பாட்டை உருவாக்கவும்.‼️⭕*\n\n_𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐄𝐔𝐒 𝐈𝐍𝐂 </>_🇱🇰'
+                text: '*❌❌මේ බොට් ඔයාට වැඩ කරන්නේ නෑ.❌❌*\n*WEBSITE LINK "tmp"*\n*‼️⭕කරුණාකර ඉහත වෙබ් සයිට් එක වෙත පිවිස ඔබගේ නම්බර් එකට බොට් කෙනෙකු සාදා ගන්න.‼️⭕*\n\n\n*❌❌This bot will not work for you.❌❌*\n*WEBSITE LINK "tmp"*\n*‼️⭕Please visit the above website and create a bot for your number.‼️⭕*\n\n\n*❌❌இந்த பாட் உங்களுக்கு வேலை செய்யாது.❌❌*\n*இணையதள இணைப்பு "tmp"*\n*‼️⭕தயவுசெய்து மேலே உள்ள இணையதளத்திற்குச் சென்று உங்கள் எண்ணுக்கு ஒரு பாட்டை உருவாக்கவும்.‼️⭕*\n\n_𝗣𝗢𝗪𝗘𝗥𝗘𝗗 𝗕𝗬 𝗖𝗛𝗔𝗧𝗛𝗨𝗪𝗔 </>_🇱🇰'
             });
         }
         const startTime = socket.creationTime || Date.now();
@@ -16,18 +16,18 @@ module.exports = {
         const seconds = Math.floor(uptime % 60);
 
         const title = `┏━❐  \`HII - THEIR I AM ALIVE NOW  \`
-┃ \`THIS IS\`: *ZEUS-XMD MINI*
+┃ \`THIS IS\`: *ᴄʜᴀᴛʜᴜᴡᴀ-xᴍᴅ-ᴍɪɴɪ*
 ┃ \`Type\`: *MULTI SESSION*
-┃ \`Platform\`: *ZEUS PVT SERVER*
+┃ \`Platform\`: *CHATHUWA PVT SERVER*
 ┃ \`UpTime\`: *${hours}h ${minutes}m ${seconds}s*
 ┗━❐`;
 
-        const content = `*© ᴢᴇᴜꜱ x ᴍᴅ*
+        const content = `*ᴄʜᴀᴛʜᴜᴡᴀ*
 *◯ A B O U T*
 > \`This is a lightweight WhatsApp Mini bot 🎀\`
 
-*◯ DEV TEAM*
-> ZEUS X INC`;
+*◯ CHATHUWA TEAM*
+> ＣＨＡＴＨＵＷＡ`;
 
         const footer = config.BOT_FOOTER;
 
