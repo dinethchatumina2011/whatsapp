@@ -34,7 +34,7 @@ module.exports = {
         },
         message: {
           contactMessage: {
-            displayName: '© ZEUS X MD',
+            displayName: 'CHATHUWA-XMD',
             vcard: `BEGIN:VCARD
 VERSION:3.0
 N:Alip;;;;
