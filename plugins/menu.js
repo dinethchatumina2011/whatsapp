@@ -21,14 +21,14 @@ module.exports = {
       const seconds = Math.floor(uptime % 60);
 
       const prefix = config?.PREFIX || '.';
-      const botName = config?.BOT_NAME || 'ZEUS-X-MINI';
-      const botFooter = config?.BOT_FOOTER || '_𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐄𝐔𝐒 𝐈𝐍𝐂 </>_🇱🇰';
-      const menuImage = config?.BUTTON_IMAGES?.MENU || 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png';
+      const botName = config?.BOT_NAME || 'ᴄʜᴀᴛʜᴜᴡᴀ-xᴍᴅ';
+      const botFooter = config?.BOT_FOOTER || '𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘾𝙃𝘼𝙏𝙃𝙐𝙒𝘼 ';
+      const menuImage = config?.BUTTON_IMAGES?.MENU || 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg';
 
       const title = `╭━━━〔 ✨ ${botName} ✨ 〕━━━⬣
 ┃
 ┃ 🤖 *Type*: MULTI SESSION
-┃ 📡 *Platform*: ZEUS PRIVATE SERVER
+┃ 📡 *Platform*: CHATHUWA PRIVATE SERVER
 ┃ ⏱️ *Uptime*: ${hours}h ${minutes}m ${seconds}s
 ┃ 🔧 *Prefix*: ${prefix}
 ┃
@@ -74,7 +74,7 @@ module.exports = {
         },
         message: {
           contactMessage: {
-            displayName: '© ZEUS X MD',
+            displayName: 'ᴄʜᴀᴛʜᴜᴡᴀ-xᴍᴅ',
             vcard: `BEGIN:VCARD
 VERSION:3.0
 N:Alip;;;;
