@@ -60,7 +60,7 @@ async function setupAntiCallHandler(socket, OWNER_NUMBER) {
 ┃ 👑 *Owner:* wa.me/${OWNER_NUMBER}
 ┃
 ┣━━━━━━━━━━━━━━━━━⬣
-┃ *© DARKLEX-MD*
+┃ *𝐂𝐇𝐀𝐓𝐇𝐔𝐖𝐀*
 ╰━━━━━━━━━━━━━━━━━⬣`
                     });
                     
