@@ -1,0 +1,45 @@
+{
+  "name": "ZEUS-X-MD",
+  "version": "1.0.0",
+  "description": " WhatsApp Bot with Multi-Number Support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@dnuzi/baileys",
+    "express": "^4.21.2",
+    "fs-extra": "^11.3.0",
+    "node-fetch": "^3.3.2",
+    "dotenv": "^16.4.7",
+    "pino": "^9.6.0",
+    "jimp": "^1.6.1",
+    "chokidar": "^4.0.3",
+    "sharp": "^0.34.5",
+    "@octokit/rest": "^21.1.1",
+    "child_process": "^1.0.2",
+    "denethdev-ytmp3": "1.0.3",
+    "yt-search": "2.13.1",
+    "path": "^0.12.7",
+    "puppeteer": "^19.11.1",
+
+    "mongodb": "^6.13.0",
+    "uuid": "^11.1.0",
+    "axios": "^1.7.9",
+  
+    "moment-timezone": "^0.5.47"
+  },
+  "engines": {
+    "node": ">=20.x"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "multi-device",
+    "baileys",
+    "ZEUS-X-MD"
+  ],
+  "author": "ZEUS-X-INC",
+  "license": "MIT"
+}
