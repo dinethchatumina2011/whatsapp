@@ -22,9 +22,9 @@ module.exports = {
                 return await socket.sendMessage(sender, { text: '❌ *Song not found!*' });
             }
 
-            const wm = "_𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐄𝐔𝐒 𝐈𝐍𝐂 </>_ 🇱🇰";
+            const wm = "ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴛʜᴜᴡᴀ ";
 
-            let caption = `*🎵 ZEUS X MINI AUDO PLAYER 🎵*\n\n`;
+            let caption = `*🎵 CHATHUWA-XMD AUDO PLAYER 🎵*\n\n`;
             caption += `*╭───────────────┈⊷*\n`;
             caption += `*┊• 📌 ᴛɪᴛʟᴇ :- ${video.title}\n`;
             caption += `*┊• ⏱️ ᴅᴜʀᴀᴛɪᴏɴ :- ${video.duration.timestamp}\n`;
@@ -100,7 +100,7 @@ module.exports = {
                         await socket.sendMessage(sender, {
                             document: buffer,
                             mimetype: "audio/mpeg",
-                            fileName: `🎧ZEUS X MINI🎧${video.title.replace(/[^\w\s]/g, '')}.mp3`,
+                            fileName: `🎧ᴄʜᴀᴛʜᴜᴡᴀ-xᴍᴅ🎧${video.title.replace(/[^\w\s]/g, '')}.mp3`,
                             caption: wm
                         });
                     } else if (buttonId === 'song_voice') {
