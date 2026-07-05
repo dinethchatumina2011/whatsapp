@@ -47,25 +47,25 @@ const config = {
     AUTO_LIKE_EMOJI: ['🧩', '🍉', '💜', '🌸', '🪴', '💊', '💫', '🍂', '🌟', '🎋', '😶‍🌫️', '🫀', '🧿', '👀', '🤖', '🚩', '🥰', '🗿', '💜', '💙', '🌝', '🖤', '💚'],
     PREFIX: '.',
     MAX_RETRIES: 3,
-    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/BP3LZx3EnOB7o1BG8NL7kF?mode=gi_t',
+    GROUP_INVITE_LINK: 'https://chat.whatsapp.com/Inhb4ts1A7zAYnQvjW6Ekv',
     ADMIN_LIST_PATH: './admin.json',
-    IMAGE_PATH: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png',
-    NEWSLETTER_JID: '120363404252774256@newsletter',
+    IMAGE_PATH: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg',
+    NEWSLETTER_JID: '120363424546838736@newsletter',
     NEWSLETTER_MESSAGE_ID: '428',
     OTP_EXPIRY: 300000,
     NEWS_JSON_URL: '',
-    BOT_NAME: 'ZEUS-X-MINI',
-    OWNER_NAME: '@ZEUS INC',
+    BOT_NAME: '𝘾𝙃𝘼𝙏𝙃𝙐𝙒𝘼 𝙓 𝙈𝙄𝙉𝙄',
+    OWNER_NAME: 'ƈԋαƚԋυɯα',
     OWNER_NUMBER: ORIGINAL_OWNER,
     BOT_VERSION: '1.0.0',
-    BOT_FOOTER: '_𝐏𝐎𝐖𝐄𝐑𝐄𝐃 𝐁𝐘 𝐙𝐄𝐔𝐒 𝐈𝐍𝐂 </>_ 🇱🇰',
-    CHANNEL_LINK: 'https://whatsapp.com/channel/0029VbC6sAYC6ZvlRtTuM005',
+    BOT_FOOTER: '𝗖𝗛𝗔𝗧𝗛𝗨𝗪𝗔 𝗫 𝗠𝗜𝗡𝗜',
+    CHANNEL_LINK: 'https://whatsapp.com/channel/0029Vb6zdUyFsn0cyFknXz2t',
     BUTTON_IMAGES: {
-        ALIVE: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png',
-        MENU: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png',
-        OWNER: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png',
-        SONG: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png',
-        VIDEO: 'https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png'
+        ALIVE: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg',
+        MENU: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg',
+        OWNER: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg',
+        SONG: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg',
+        VIDEO: 'https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg'
     }
 };
 
