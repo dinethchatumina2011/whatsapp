@@ -11,8 +11,8 @@ module.exports = {
 ◦ 💾 \`CPU Cores\`: *24*
 `;
         await sendMessageWithRetry(socket, sender, {
-            image: { url: "https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png" },
-            caption: formatMessage("`📡 ZEUS X MINI SYSTEM INFOMATION 📡`", content, config.BOT_FOOTER),
+            image: { url: "https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg" },
+            caption: formatMessage("`📡 CHATHUWA X MINI SYSTEM INFOMATION 📡`", content, config.BOT_FOOTER),
             quoted: msg
         });
     }
