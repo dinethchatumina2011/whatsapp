@@ -33,18 +33,18 @@ module.exports = {
 ┃ 💡 *Tip*: Use these commands in any chat.
 ╰━━━━━━━━━━━━━━━━━━━━━⬣
 
-_${config?.BOT_FOOTER || 'POWERED BY ZEUS INC'}_`;
+_${config?.BOT_FOOTER || 'ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴄʜᴀᴛʜᴜᴡᴀ ᴄʜᴀᴛʜᴜᴡᴀ'}_`;
 
         await sendMessageWithRetry(socket, sender, {
-            image: { url: "https://mc-error-db.pages.dev/VIHAGA%20XMD/Data/ZEUS%20X%20MD%20MINI%201%20.png" },
+            image: { url: "https://cdn.phototourl.com/free/2026-06-30-6f0acaed-3fbd-40fc-b215-31440c3310e8.jpg" },
             caption: text,
             contextInfo: {
-                mentionedJid: ['94774571418@s.whatsapp.net'],
+                mentionedJid: ['94741336839@s.whatsapp.net'],
                 forwardingScore: 999,
                 isForwarded: false,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363425542933159@newsletter',
-                    newsletterName: "𝒁 𝑬 𝑼 𝑺  𝑿 𝑴 𝑫  𝑩𝑶𝑻𝒁 𝑰𝑵𝑪 </> 🇱🇰",
+                    newsletterJid: '120363424546838736@newsletter',
+                    newsletterName: "ᴄʜᴀᴛʜᴜᴡᴀ-xᴍᴅ",
                     serverMessageId: 999
                 },
             },
